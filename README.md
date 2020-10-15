@@ -1,5 +1,5 @@
 # Algorithmic Methods of Data Mining Homework 1
-This repository contains everything that have to be handed for the first homework of the ADM course.
+This repository contains everything that needs to be delivered for the first homework assignment of the ADM course.
 ## Files description
 1.  __`scripts.ipynb`__: This Jupyter notebook contains all the challenges requested in the Homework 1. The file is organized as follows:
 - 1 markdown cell (header 1) specifying the exercise number (i.e., **Problem 1**, **Problem 2**);
